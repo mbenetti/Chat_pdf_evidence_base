@@ -48,7 +48,7 @@ An advanced Streamlit application for viewing and interacting with PDF documents
    pip install -r requirements.txt
    ```
 
-4. (Optional) Set up Ollama or your preferred LLM provider
+4. (Optional) Set up Ollama or your preferred LLM provider. Use .env file to set up your openai compatible llm provider
 
 ## Usage
 
